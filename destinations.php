@@ -31,7 +31,7 @@
 <p class="hometext">Spain, a beautiful country located on Europe's Iberian Peninsula is a perfect place for some well deserved vacations. Spain is one of Europe's most famous locations to spend some nice and tropical vacations. Spain has over 8,000 km of coastline and THOUSANDS of beaches. Spain also has over 300 days of sunshine throughout the year. </p>
         </div>
         <div class="col-8">
-<img src="http://localhost/Project/images/espana.jpg" alt="" style=" width: 800px;padding-top: 2rem; padding-left: 15rem; ">
+<img src="http://localhost/Project/Projectwork/images/espana.jpg" alt="" style=" width: 800px;padding-top: 2rem; padding-left: 15rem; ">
 </div>
     </div>
 

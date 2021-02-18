@@ -26,13 +26,13 @@
                      
                  </div>
                  <div class="col-8">
-                <img src="http://localhost/Project/images/denia3.jpg" alt="" style=" width: 800px;padding-top: 2rem; padding-left: 15rem; ">
+                <img src="http://localhost/Project/Projectwork/images/denia3.jpg" alt="" style=" width: 800px;padding-top: 2rem; padding-left: 15rem; ">
                  </div>
                 </div>
                 <div class="row">
                  <div class="col-8">
                  
-                 <img src="http://localhost/Project/images/fondo7.jpg" alt="" style=" width: 600px;padding-top: 2rem;">
+                 <img src="http://localhost/Project/Projectwork/images/fondo7.jpg" alt="" style=" width: 600px;padding-top: 2rem;">
                   
                 
                      
@@ -49,7 +49,7 @@
                  <p class="hometext"> Due to the Coronavirus pandemic we are experiencing right now, we have to modify a little bit operations and we need to follow all the guidelines and rules that the local goverments have in effect. You can find more information on the <a href="">Coronavirus</a> Tab</p>  
                  </div>
                  <div class="col-8">
-                     <img src="http://localhost/Project/images/sunset.jpg" alt="" style=" width: 800px;padding-top: 2rem;padding-left: 15rem;">
+                     <img src="http://localhost/Project/Projectwork/images/sunset.jpg" alt="" style=" width: 800px;padding-top: 2rem;padding-left: 15rem;">
                  
                  </div>
                 </div>
