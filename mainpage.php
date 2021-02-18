@@ -39,7 +39,7 @@
                  </div>
                  <div class="col-4">
                      <h1>Our Destinations</h1>
-                 <p class="hometext"> We offer various destinations around Europe and North America. With us, you can get some really needed vacations ranging from Spain, Mexico, and the United States. You can see more of our luxirous and confy destinations in the <a href="http://localhost/Project/destinations.php">Destinations</a> Tab. Our services are ideal for a quick, relaxed and fast vacations ranging from 1 week all the way to 1 full month of enjoying a warm and tropical weather.</p>
+                 <p class="hometext"> We offer various destinations around Europe and North America. With us, you can get some really needed vacations ranging from Spain, Mexico, and the United States. You can see more of our luxirous and confy destinations in the <a href="http://localhost/Project/Projectwork/destinations.php">Destinations</a> Tab. Our services are ideal for a quick, relaxed and fast vacations ranging from 1 week all the way to 1 full month of enjoying a warm and tropical weather.</p>
                  </div>
                 </div>
 
