@@ -35,10 +35,10 @@
     <div class="row">
         <div class="col-4">
 <h1>About Mexico</h1>
-<p class="hometext">Spain, a beautiful country located on Europe's Iberian Peninsula is a perfect place for some well deserved vacations. Spain is one of Europe's most famous locations to spend some nice and tropical vacations. Spain has over 8,000 km of coastline and THOUSANDS of beaches. Spain also has over 300 days of sunshine throughout the year. </p>
+<p class="hometext">Mexico is a country located in the southern portion of North america. Mexico is just, a really magical place where you will find history, routes, an amazing gastronomy aming many other things that makes this place one of the most visited countries in the world. </p>
         </div>
         <div class="col-8">
-<img src="http://localhost/Project/Projectwork/images/espana.jpg" alt="" style=" width: 800px;padding-top: 2rem; padding-left: 15rem; ">
+<img src="http://localhost/Project/Projectwork/images/mexicoplaya.jpg" alt="" style=" width: 800px;padding-top: 2rem; padding-left: 15rem; ">
 </div>
     </div>
 
@@ -59,19 +59,19 @@
               <div class="container">
     <div class="row">
         <div class="col-8">
-        <img src="http://localhost/Project/Projectwork/images/deniaplaya.jpg" alt="" style=" width: 800px; height: 800px;padding-top: 2rem; ">
+        <img src="http://localhost/Project/Projectwork/images/cancun.jpg" alt="" style=" width: 800px; height: 600px;padding-top: 2rem; ">
 
 </div>
 
 <div class="col-4">
-<h1>Denia, Spain</h1>
-<p class="hometext">Are you planning your next summer vacations? Denia is the mediterranean province located in the autonomous regions of Alicante in spain. This without a doubt one of the best destinations to enjoy the warm summer season. </p>
+<h1>Cancun</h1>
+<p class="hometext">This beautiful place is considered to be the heart of the Mexican Caribbean and every year, it attracts thousands of visitors. This place has some gorgeous beaches, great weather, abd anazingly clear and clear waters. There are plenty of reasons to visit Cancun! </p>
 <br>
-<h3>Weather</h3>
-<p class="hometext">Climate in Denia is just simply spectacular. Average temperature on summer time ranges from 29-31 degrees celcius and annually, Denia gets around 3000 hours of sunlight.</p>
+<h3>Cuisine</h3>
+<p class="hometext"> One of the highlights of any trip to Cancun is the cuisine available in every area of the city. Foodies of the world can benefit from some of the most exceptional chefs in the world. If you want to you could sample a new cuisine each day of your vacation; from traditional foods to cutting edge fusions, high end restaurants to cute and quaint street food stands… you can find it all in Cancun. After all, this is a truly international city.</p>
 <br>  
 <h3>Beaches</h3>   
-<p class="hometext">Denia has hold of some of the prettiest beacher in all the mediterranean. The beaches are just of really high quality and clean blue water that attracts thousands and thousands of travellers yearly.</p>
+<p class="hometext">Cancun is one of the best city breaks you could take. The coastline is unoaralleled in beauty, condition, and opportunity. You can relax, party and eat on the beaches. Alongside the beaches, tourists can also take part in various activities such as snorkel and scuba diving.</p>
 <br>
 <p class="hometext">If you would like to book a well deserved vacation to Denia. Feel free to check the <a href="http://localhost/Project/Projectwork/Pricing&MoreInfo.php">Pricing & More Info</a> tab</p>
 </div>

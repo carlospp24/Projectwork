@@ -4,9 +4,10 @@
   overflow: hidden;
 }
 body{
-  background-image: url(http://localhost/Project/Projectwork/images/fondonegro.jpg);
-    
+  background-image: url(http://localhost/Project/Projectwork/images/negropattern.jpg);
+    background-size:2000px;
 }
+
 
 .hometext{
     color: #ffffff;
