@@ -59,3 +59,11 @@ p{
 footer {
     background-color: rgba(145, 138, 138, 0.562);
 }
+#wrapper
+{
+  border: 1px solid #888;
+  display: inline-block;
+  padding:20px;
+  color: #ffffff;
+  
+}

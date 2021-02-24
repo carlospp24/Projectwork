@@ -60,6 +60,24 @@
     <div class="row">
         <div class="col-8">
         <img src="http://localhost/Project/Projectwork/images/cancun.jpg" alt="" style=" width: 800px; height: 600px;padding-top: 2rem; ">
+        <br>
+        <br>
+        <div id="wrapper">
+  
+
+<form action="destinationsmexico.php" method="get">
+<label for="yes_no_radio">In the past, have you travelled to Mexico?</label>
+<p>
+<input type="radio" name="yes" checked>Yes</input>
+</p>
+<p>
+<input type="radio" name="no">No</input>
+</p>
+  <input type="submit">
+</form>
+
+</div>
+        
 
 </div>
 
@@ -74,6 +92,8 @@
 <p class="hometext">Cancun is one of the best city breaks you could take. The coastline is unoaralleled in beauty, condition, and opportunity. You can relax, party and eat on the beaches. Alongside the beaches, tourists can also take part in various activities such as snorkel and scuba diving.</p>
 <br>
 <p class="hometext">If you would like to book a well deserved vacation to Denia. Feel free to check the <a href="http://localhost/Project/Projectwork/Pricing&MoreInfo.php">Pricing & More Info</a> tab</p>
+
+
 </div>
     </div>
     </div>
@@ -84,20 +104,22 @@
     <div class="container">
     <div class="row">
         <div class="col-4">
-        <h1>Barcelona</h1>
-<p class="hometext">Barcelona is the seconds largest city in spain and it's also one of the most popular touristic destinations all over the world. If you are a tourist and want to enjoy the amazing beaches, or lovers of old buildings and such and amazing and beautiful architecture. You can do so with us!. </p>
+        <h1>Puerto Vallarta</h1>
+<p class="hometext">Puerto Vallarta is more than just a coastal resort getaway. This beautiful city maintains a small town atmoshphere while still boasting one of the most unique and sophisticated oceanfronts in Mexico. Here, you'll find plenty of dining options as well as some great hotel choices. You'll find both elegance and efficiency mingled together. </p>
 <br>
-<h3>The city</h3>
-<p class="hometext"> Barcelona is one of the few destinations in the world that combine both beach and mountains in such a harmonious way. Tourists here can easily go for a mountain hike and when you open your eyes, you might end up enjoying some drinks near the beach (or vice versa).</p>
+<h3>Ecotourism</h3>
+<p class="hometext"> Discover Puerto Vallarta’s natural beauty and be amazed by the huge diversity of flora and fauna: from visiting the zoo to visiting the El Salado estuary; horseback riding to the Quimixto waterfall or taking a tour around the bay; just strolling along the streets and beaches is a journey of discovering: pelicans and cormorants will be joining you. The destination’s biodiversity will enchant you.</p>
 <br>
-<p class="hometext"> If you would like more information regarding barcelona or if you are considering booking a trip, feel free to visit the <a href="http://localhost/Project/Projectwork/Pricing&MoreInfo.php">Pricing & More Info</a> tab</p>
+<h3>Cultural Activities</h3>
+<p class="hometext"> Explore the Cuale River Island and be astonished by the artistic activities and workshops offered. Discover Puerto Vallarta’s cultural side when you visit The Navy Museum, The Chocolate Museum, and its many galleries and cultural spots such as the Malecon Arches, with open-air shows and performances to enjoy with the family. </p>
 </div>
 
 <div class="col-8">
-<img src="http://localhost/Project/Projectwork/images/barcelona.jpg" alt="" style=" width: 800px;padding-top: 2rem; padding-left: 15rem; ">
+<img src="http://localhost/Project/Projectwork/images/puertovallarta.jpg" alt="" style=" width: 800px;padding-top: 2rem; padding-left: 15rem; ">
 <br>
-<img src="http://localhost/Project/Projectwork/images/barcelona2.jpg" alt="" style=" width: 800px;padding-top: 5rem; padding-left: 15rem; ">
-
+<img src="http://localhost/Project/Projectwork/images/puertovallarta3.jpg" alt="" style=" width: 800px;padding-top: 5rem; padding-left: 15rem; ">
+<br>
+<img src="http://localhost/Project/Projectwork/images/hotel.jpg" alt="" style=" width: 800px;padding-top: 5rem; padding-left: 15rem; ">
 </div>
     </div>
     </div>
