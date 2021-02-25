@@ -26,6 +26,7 @@
                 <h1 class="spain">Mexico</h1>
                  </div>
                  <div class="col-3">
+                 
                  </div>
                 </div>
               </div>
@@ -62,21 +63,11 @@
         <img src="http://localhost/Project/Projectwork/images/cancun.jpg" alt="" style=" width: 800px; height: 600px;padding-top: 2rem; ">
         <br>
         <br>
-        <div id="wrapper">
-  
+        <img src="http://localhost/Project/Projectwork/images/cancunbeach.jpg" alt="" style=" width: 800px; height: 600px;padding-top: 2rem; ">
+        <br>
+        
 
-<form action="destinationsmexico.php" method="get">
-<label for="yes_no_radio">In the past, have you travelled to Mexico?</label>
-<p>
-<input type="radio" name="yes" checked>Yes</input>
-</p>
-<p>
-<input type="radio" name="no">No</input>
-</p>
-  <input type="submit">
-</form>
 
-</div>
         
 
 </div>
