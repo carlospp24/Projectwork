@@ -49,7 +49,7 @@
                  <div class="col-3">
                  </div>
                  <div class="col-6">
-                <h1 class="spain">Our Destinations</h1>
+                <h1 class="spain">Our Popular Destinations</h1>
                  </div>
                  <div class="col-3">
                  </div>

@@ -40,7 +40,7 @@
     <h2>Question/Comment</h2> <input type="text" name="question_or_feedback"><br>
 </select>
 <br>
-<input type="submit" value="Save Data">
+<input type="submit" value="Submit">
 </form>
 
 

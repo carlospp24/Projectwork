@@ -9,8 +9,8 @@ $error = NULL;
 
 
 if($conn->query($sql) === TRUE) {
-    echo "New record added";
-    echo "<a href='update.php' class='top'>Home </a>";
+    echo "Thank you for your feedback or question. We'll get back to you as soon as possible.";
+    echo "<a href='http://localhost/Project/Projectwork/mainpage.php' class='top'>Home </a>";
 }
 else
 {
