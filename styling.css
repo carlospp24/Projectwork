@@ -6,8 +6,16 @@
 body{
   background-image: url(http://localhost/Project/Projectwork/images/negropattern.jpg);
     background-size:2000px;
+    
 }
-
+label{
+  color: #ffffff;
+}
+.booking-form-box{
+  max-width: 350px;
+  border: 1px solid #ced4da;
+  margin: 10% auto 0;
+}
 
 .hometext{
     color: #ffffff;
@@ -19,6 +27,11 @@ body{
   border:5px; 
   border-style:dashed;
    border-color:#ffffff;
+}
+.booking{
+  color: #f2f2f2;
+  text-align: center;
+  font-size: 25px;
 }
 h1{
     color: rgb(255, 255, 255);
@@ -77,3 +90,17 @@ footer {
   color: #ffffff;
   
 }
+table{
+  color: #ffffff;
+  font-size: 20px;
+  border: 3px solid rgb(255, 255, 255);
+  empty-cells: show;
+  
+}
+th{
+  border: 3px solid rgb(255, 255, 255);
+}
+td{
+  border: 3px solid rgb(255, 255, 255);
+}
+
