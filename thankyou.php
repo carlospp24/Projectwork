@@ -70,16 +70,98 @@
                     echo'<br>';
                     echo "Children:"; echo $children;
                     echo '<br>';
-                    $total = 0;
+                    $priceadults=0;
+                    $pricechildren+0;
+ function dateDiffInDays($date1, $date2)  
+{ 
+    $diff = strtotime($date2) - strtotime($date1);  
+return abs(round($diff / 86400)); 
+} 
+$date1 = $start; 
+$date2 = $end; 
+$dateDiff = dateDiffInDays($date1, $date2); 
 
-if ($adults >0) {
-  $total=$adults*239;
+
+if ($hotel=="Hotel Daniya Denia Spa & Business"){
+  $priceadults=$dateDiff*99;
+  $pricechildren=$dateDiff*62;
+  $total=$priceadults+$pricechildren;
+  echo "Total:";
+  echo " ";
+  echo "$";
+  echo $total;
 }
-if ($children >0) {
-  $total=$children*114;
-  
+if ($hotel=="Hotel Mr Costa Blanca"){
+  $priceadults=$dateDiff*79;
+  $pricechildren=$dateDiff*34;
+  $total=$priceadults+$pricechildren;
+  echo "Total:";
+  echo " ";
+  echo "$";
+  echo $total;
 }
-        
+if ($hotel=="Negresco Princess 4* Sup"){
+  $priceadults=$dateDiff*117;
+  $pricechildren=$dateDiff*79;
+  $total=$priceadults+$pricechildren;
+  echo "Total:";
+  echo " ";
+  echo "$";
+  echo $total;
+}
+if ($hotel=="Ohla Barcelona"){
+  $priceadults=$dateDiff*189;
+  $pricechildren=$dateDiff*101;
+  $total=$priceadults+$pricechildren;
+  echo "Total:";
+  echo " ";
+  echo "$";
+  echo $total;
+}
+
+
+if ($hotel=="Royalton Chic Suites Cancun Resort & Spa"){
+  $priceadults=$dateDiff*57;
+  $pricechildren=$dateDiff*25;
+  $total=$priceadults+$pricechildren;
+  echo "Total:";
+  echo " ";
+  echo "$";
+  echo $total;
+}
+if ($hotel=="Grand Fiesta Americana Coral Beach Cancun"){
+  $priceadults=$dateDiff*64;
+  $pricechildren=$dateDiff*31;
+  $total=$priceadults+$pricechildren;
+  echo "Total:";
+  echo " ";
+  echo "$";
+  echo $total;
+}
+if ($hotel=="Grand Fiesta Americana Puerto Vallarta"){
+  $priceadults=$dateDiff*182;
+  $pricechildren=$dateDiff*117;
+  $total=$priceadults+$pricechildren;
+  echo "Total:";
+  echo " ";
+  echo "$";
+  echo $total;
+}
+if ($hotel=="Hotel Posada De Roger"){
+  $priceadults=$dateDiff*399;
+  $pricechildren=$dateDiff*189;
+  $total=$priceadults+$pricechildren;
+  echo "Total:";
+  echo " ";
+  echo "$";
+  echo $total;
+}
+
+
+
+
+
+                  
                   
                     ?>
 
