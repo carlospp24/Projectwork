@@ -162,9 +162,24 @@ $conn->close();
               </div>
 
               <br>
-              <div class="reservenow">
-<a href="http://localhost/Project/Projectwork/reservenow.php">Make your Reservation to Mexico</a>
+
+              <div class="container">
+            <div class="row">
+                 <div class="col-3">
+                 
+                 </div>
+                 <div class="col-6">
+                 <div class="reservenow">
+<a href="http://localhost/Project/Projectwork/reservenowmexico.php">Make your Reservation to Mexico</a>
 </div>
+                 </div>
+                 <div class="col-3">
+                 
+                 </div>
+                </div>
+              </div>
+
+              
               <br>
 
               

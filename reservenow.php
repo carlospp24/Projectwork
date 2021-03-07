@@ -40,48 +40,51 @@
 
 
   <div class="booking-form-box">
-      <Label>Hotel</Label>
-      Select City of destination:<select name="hotel">
+      <Label>Hotel *</Label>
+      <select name="hotel">
                     <option value="Hotel Daniya Denia Spa & Business"> Hotel Daniya Denia Spa & Business </option>
+                    
                     <option value="Hotel Mr Costa Blanca"> Hotel Mr Costa Blanca </option>
                     <option value="Negresco Princess 4* Sup"> Negresco Princess 4* Sup </option>
                     <option value="Ohla Barcelona">Ohla Barcelona</option>
+                    
+                    
               
                 </select>
                 <br>
 
-      <label>Name</label>
+      <label>Name *</label>
       <input type="text" class="form-control" name="name">
-      <label>Last Name</label>
+      <label>Last Name *</label>
       <input type="text" class="form-control" name="lname">
-      <label>Email</label>
+      <label>Email *</label>
       <input type="text" class="form-control" name="email">
-      <label>Phone Number</label>
+      <label>Phone Number *</label>
       <input type="text" class="form-control" name="number">
-      <label>Country</label>
+      <label>Country *</label>
       <input type="text" class="form-control" name="country">
-      <label>Passport</label>
+      <label>Passport *</label>
       <input type="text" class="form-control" name="passport">
       
   
 
   <div class="input-grp">
-      <label>From</label>
+      <label>From *</label>
       <input type="date" class="form-control select-date" name="start">
   </div>
 
   <div class="input-grp">
-      <label>To</label>
+      <label>To *</label>
       <input type="date" class="form-control select-date" name="end">
   </div>
 
   <div class="input-grp">
-      <label>Adults</label>
+      <label>Adults *</label>
       <input type="number" class="form-control" name="adults" value="1">
   </div>
   
   <div class="input-grp">
-      <label>Children</label>
+      <label>Children *</label>
       <input type="number" class="form-control" name="children" value="0">
   </div>
   <input type="submit" value="Submit">
@@ -90,7 +93,10 @@
   </form>
 
 
-
+  
+  
+  
+  
 
 
 
