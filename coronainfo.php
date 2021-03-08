@@ -141,7 +141,7 @@ color: white;
         <p class="covid"><br>Please check for travel restrictions before booking and travelling to an accommodation. Travel may be permitted only for certain purposes and in particular, touristic travel may not be allowed. To help you on your way, we included publicly available links to government websites for several countries around the world. Please note that not all countries are covered below. If a country is not included in this overview it doesn’t mean that no travel restrictions are in place and we recommend that you seek out information for any country you are planning to travel to. We are not responsible for the content of the public (government) websites linked below. Government responses continue to evolve, so please check back often for updates and rely on your national and local government for the most current information.</p>
     </div>
     <div class="col-8">
-                <img url="http://localhost/Projectwork-master/images/Corona-Info-INSTA.jpg" alt="" style=" width: 800px;padding-top: 2rem; padding-left: 15rem; ">
+                <img url="http://localhost/Project/Projectwork/images/Corona-Info-INSTA.jpg" alt="" style=" width: 800px;padding-top: 2rem; padding-left: 15rem; ">
                  </div>
     </div>
     </div>
