@@ -46,7 +46,7 @@
                 <div class="row">
                  <div class="col-4">
                    <h1>Corona Information </h1>
-                 <p class="hometext"> Due to the Coronavirus pandemic we are experiencing right now, we have to modify a little bit operations and we need to follow all the guidelines and rules that the local goverments have in effect. You can find more information on the <a href="">Coronavirus</a> Tab</p>  
+                 <p class="hometext"> Due to the Coronavirus pandemic we are experiencing right now, we have to modify a little bit operations and we need to follow all the guidelines and rules that the local goverments have in effect. You can find more information on the <a href="http://localhost/Project/Projectwork/coronainfo.php">Coronavirus</a> Tab</p>  
                  </div>
                  <div class="col-8">
                      <img src="http://localhost/Project/Projectwork/images/sunset.jpg" alt="" style=" width: 800px;padding-top: 2rem;padding-left: 15rem;">
